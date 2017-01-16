@@ -1,5 +1,5 @@
 # AR-Roll-A-Ball
-Basic Unity Implementation of an AR Roll-a-ball using Vuforia. To Run on Mac, PC, run the standalone file.
+Basic Unity Implementation of an AR Roll-a-ball using Vuforia. Android and Mac/PC Standalone executables are included. 
 
 Video Demo: https://youtu.be/Au6gvf9LpP4
 
